@@ -18,4 +18,4 @@ For the nearest intersection:
 
 “6. intersection_imagery_collection” contains Python scripts run in Google Colab to collect Google Street View images, when available, for the closest intersection to each MSG residential location.
 
-“coding_Intersection Images_using_Gemini” folder contains Python scripts run in Google Colab to query the Google Gemini API and detect selected items in each image collected during last step.
+“7. coding_Intersection Images_using_Gemini” folder contains Python scripts run in Google Colab to query the Google Gemini API and detect selected items in each image collected during last step.
