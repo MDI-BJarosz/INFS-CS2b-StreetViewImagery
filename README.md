@@ -1,3 +1,7 @@
+This is repository 2 of 3 for this case study. 
+Find repo 1 here: https://github.com/MDI-BJarosz/INFS-CS2a-SatelliteImagery
+And repo 3 here: https://github.com/MDI-BJarosz/INFS-CS2c-CommercialVendorData
+
 For a residential location:
 
 “1. location_imagery_collection” contains Python scripts run in Google Colab to collect Google Street View images, when available, for each MSG residential location.
